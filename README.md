@@ -1,5 +1,5 @@
 madutex/README.md
-Lawrence Maduabuchi Banner
+Lawrence Maduabuchi
 
 Hi 👋, I'm Lawrence Maduabuchi
 Passionate Full Stack Developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and Back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.
