@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
+![Madutex's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 <h1 align="center">Hi 👋, I'm Lawrence Maduabuchi</h1>
 <h3 align="center">Passionate Full Stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **API Pneumatic**
 
-- 👨‍💻 All of my projects are available at [madutex](madutex)
+- 👨‍💻 All of my projects are available at [https://github.com/madutex/]
 
 - 💬 Ask me about **Wordpress, LAMP stack, MERN stack and related technologies**
 
